@@ -18,5 +18,10 @@ These instructions are not universal for all mod installations, although they ar
 
 3) Finally, the desired mod/s should be downloaded and placed into the "Mods" folder, after which the game can be launched to enjoy the new features.
 
+## Mods
+Mod  | Author
+------------- | -------------
+[Debug Mode](https://github.com/LeCloutPanda/DebugMode)  | LeCloutPanda
+
 ## Contributors
-- [@LeCloutPanda](https://www.github.com/LeCloutPanda)
+[LeCloutPanda](https://github.com/LeCloutPanda) for documentation
