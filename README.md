@@ -1,5 +1,5 @@
 # Vampire Survivor Mods
-This is a collection of mods either created by my self or the community, neatly organised into seperate categories
+This is a collection of mods either created by my self or the community, neatly organised into a list.
 
 # Prerequisits 
 * The new engine for [Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/)
