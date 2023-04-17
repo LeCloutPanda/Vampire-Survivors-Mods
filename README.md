@@ -22,6 +22,7 @@ These instructions are not universal for all mod installations, although they ar
 Mod  | Author
 ------------- | -------------
 [Debug Mode](https://github.com/LeCloutPanda/DebugMode)  | LeCloutPanda
+[Vampire Rpc](https://github.com/LeCloutPanda/VampireRPC) | LeCloutPanda
 
 # For Developers/Contributors
 It is important to keep in mind that any mods intended to be added to this list must be Open source, meaning that they should have a Github page and be licensed under the MIT license. 
