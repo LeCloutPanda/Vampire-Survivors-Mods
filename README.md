@@ -23,6 +23,7 @@ Mod  | Author
 ------------- | -------------
 [Debug Mode](https://github.com/LeCloutPanda/DebugMode)  | LeCloutPanda
 [Vampire RPC](https://github.com/LeCloutPanda/VampireRPC) | LeCloutPanda
+[Gold Fever Fix](https://github.com/takacomi/GoldFeverScaler) | takacomi
 
 # For Developers/Contributors
 It is important to keep in mind that any mods intended to be added to this list must be Open source, meaning that they should have a Github page and be licensed under the MIT license. 
