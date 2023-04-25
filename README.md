@@ -23,6 +23,7 @@ Mod  | Author
 ------------- | -------------
 [Debug Mode](https://github.com/LeCloutPanda/DebugMode)  | LeCloutPanda
 [Vampire RPC](https://github.com/LeCloutPanda/VampireRPC) | LeCloutPanda
+[Vampire Mod Menu](https://github.com/LeCloutPanda/VampireModMenu) | LeCloutPanda (Not released just yet)
 [Gold Fever Fix](https://github.com/takacomi/GoldFeverScaler) | takacomi
 
 # For Developers/Contributors
