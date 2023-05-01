@@ -25,6 +25,7 @@ Mod  | Author
 [Vampire RPC](https://github.com/LeCloutPanda/VampireRPC) | LeCloutPanda
 [Vampire Mod Menu](https://github.com/LeCloutPanda/VampireModMenu) | LeCloutPanda (Unreleased)
 [Gold Fever Scaler](https://github.com/takacomi/GoldFeverScaler) | takacomi
+[Movement Speed Cap+](https://github.com/Farukon-0/Movement-Speed-Cap-Plus) | Farukon
 
 # For Developers/Contributors
 It is important to keep in mind that any mods intended to be added to this list must be Open source, meaning that they should have a Github page and be licensed under the MIT license. 
