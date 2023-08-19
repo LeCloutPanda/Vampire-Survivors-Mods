@@ -23,9 +23,10 @@ Mod  | Author
 ------------- | -------------
 [Debug Mode](https://github.com/LeCloutPanda/DebugMode)  | LeCloutPanda
 [Vampire RPC](https://github.com/LeCloutPanda/VampireRPC) | LeCloutPanda
-[Vampire Mod Menu](https://github.com/LeCloutPanda/VampireModMenu) | LeCloutPanda
+[~~Vampire Mod Menu~~](https://github.com/LeCloutPanda/VampireModMenu) | LeCloutPanda (No longer be developed)
 [Gold Fever Scaler](https://github.com/takacomi/GoldFeverScaler) | takacomi
 [Movement Speed Cap+](https://github.com/Farukon-0/Movement-Speed-Cap-Plus) | Farukon
+[VsMenuModHelper](https://github.com/nwfistere/VSMenuModHelper) | nwfistere
 
 # For Developers/Contributors
 It is important to keep in mind that any mods intended to be added to this list must be Open source, meaning that they should have a Github page and be licensed under the MIT license. 
