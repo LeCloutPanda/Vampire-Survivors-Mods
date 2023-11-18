@@ -19,6 +19,7 @@ These instructions are not universal for all mod installations, although they ar
 3) Finally, the desired mod/s should be downloaded and placed into the "Mods" folder, after which the game can be launched to enjoy the new features.
 
 # Mods
+_Any mods that aren't written me might not be updated to the lastest build of the game_
 Mod  | Author
 ------------- | -------------
 [Debug Mode](https://github.com/LeCloutPanda/DebugMode)  | LeCloutPanda
@@ -30,7 +31,6 @@ Mod  | Author
 
 # For Developers/Contributors
 It is important to keep in mind that any mods intended to be added to this list must be Open source, meaning that they should have a Github page and be licensed under the MIT license. 
-
 While contributions to this project or to the wider field of Vampire Survivors modding are welcome, if you have suggestions or contributions specifically related to this page, please open an Issue or Pull request for review.
 
 ## Contributors
