@@ -3,7 +3,7 @@ This is a collection of mods either created by my self or the community, neatly 
 
 # Prerequisits 
 * The new engine for [Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/)
-* [Melon Loader](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe))
+* Latest release of [Melon Loader](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
 * About 10 minutes of your time
 
 # Warning!!!
